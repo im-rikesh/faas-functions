@@ -1,0 +1,38 @@
+----------------------------------------
+Run #1:
+Response: {"measurement":{"gif_time":100202.249,"watermark_time":317248.396},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 417462ms
+----------------------------------------
+Run #2:
+Response: {"measurement":{"gif_time":100909.28099999999,"watermark_time":314523.34},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 415444ms
+----------------------------------------
+Run #3:
+Response: {"measurement":{"gif_time":101507.30900000001,"watermark_time":316065.238},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 417585ms
+----------------------------------------
+Run #4:
+Response: {"measurement":{"gif_time":105182.132,"watermark_time":318712.891},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 423908ms
+----------------------------------------
+Run #5:
+Response: {"measurement":{"gif_time":107732.526,"watermark_time":318350.79000000004},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 426095ms
+----------------------------------------
+Run #6:
+Response: {"measurement":{"gif_time":106811.154,"watermark_time":320955.736},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 427779ms
+----------------------------------------
+Run #7:
+Response: {"measurement":{"gif_time":103064.71500000001,"watermark_time":322437.514},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 425515ms
+----------------------------------------
+Run #8:
+Response: {"measurement":{"gif_time":105302.79299999999,"watermark_time":318317.769},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 423634ms
+----------------------------------------
+Run #9:
+Response: {"measurement":{"gif_time":104384.504,"watermark_time":321637.836},"result":{"gif_file":"/home/app/gif-driver-action-recognition.mp4.gif","watermarked_video":"/home/app/watermarked-driver-action-recognition.mp4"}}
+Execution Time: 426034ms
+----------------------------------------
+Run #10:
